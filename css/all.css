@@ -646,9 +646,9 @@ transition: all 0.5s ease-in-out;
 	padding: 20px !important;
 	border-radius: 10px;
 }
-.fancybox-nav {
+/*.fancybox-nav {
 	display: none;
-}
+}*/
 .copy {
 	color: #fff;
 }
