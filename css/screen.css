@@ -180,7 +180,7 @@
 	.item-list li{margin: 0 0 20px;} */
 	.menu_trigger{top: 20px;}
 }
-@media screen and (max-width:420px) {
+@media screen and (max-width:700px) {
 /* 	.item{
 		width: 130px;
 	}
@@ -199,6 +199,12 @@
 	.box_contact {
 		margin: 40px auto 0;
 		width: 280px;
+	}
+	.box{
+    width: 70%;
+	}
+	.popup{
+		width: 70%;
 	}
 	.box_contact span.email{font-size: 12px;}
 	.images_holder{width: 280px;margin: 0 auto 20px;}
